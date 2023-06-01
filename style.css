@@ -57,3 +57,9 @@ label{
 .button{
     margin-top: 40px;
 }
+span{
+    color: rgba(44, 44, 100, 0.8);
+}
+button:hover{
+    background-color: rgba(44, 44, 44, 0.2);
+}
